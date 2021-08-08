@@ -1,1 +1,1 @@
-# NLP-Reddit-posts
+# NLP-Reddit-posts-classification
